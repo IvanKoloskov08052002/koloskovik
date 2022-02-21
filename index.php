@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/style.css">
     <img src="img/logo.png" alt="">
 </head>
-<body>
+<body> 
     
     <div class="contener">
       <?php
