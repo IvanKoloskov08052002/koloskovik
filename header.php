@@ -7,7 +7,7 @@
                 <a href="index.php">Главная</a>
                 <a href="#">Админ панель</a>
                 <a href="#">Личный кабинет</a>
-            </div>
+            </div> 
             <div class="header-botton">
             <a class="bottons" href="/atoruzonion.php" >Вход</a>
             <a class="bottons" href="reg/reg.php">Регистрация</a>
