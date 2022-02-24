@@ -12,4 +12,4 @@
             <a class="bottons" href="/atoruzonion.php" >Вход</a>
             <a class="bottons" href="reg/reg.php">Регистрация</a>
             </div>
-</header>
+</header> 
