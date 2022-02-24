@@ -12,7 +12,7 @@
     <img src="img/logo.png" alt="">
 </head>
 <body> 
-    
+     
     <div class="contener">
       <?php
       include "reg/php/header.php"
